@@ -9,14 +9,8 @@ Apaixonado por resolver problemas com código, aprender novas tecnologias e cria
 
 ## 🌟 Projetos em Destaque
 
-🔎 **[Consulta de CEP](https://github.com/vtutya/ConsultaDeCep)**  
-Aplicação para buscar informações de endereço a partir do CEP utilizando API.
+**[CRUD SIMPLES](https://github.com/vtutya/Crud-Simples)**  
 
-📝 **[Lista de Tarefas](https://github.com/vtutya/ListaTarefas)**  
-Projeto de To-Do List em Java com orientação a objetos e persistência de dados.
-
-💰 **[Busca de Criptomoedas](https://github.com/vtutya/BuscaDeCripto--Api-coingecko)**  
-Consulta o preço de criptomoedas em tempo real utilizando a API pública do CoinGecko.
 
 ---
 
