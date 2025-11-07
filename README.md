@@ -9,7 +9,7 @@ Apaixonado por resolver problemas com código, aprender novas tecnologias e cria
 
 ## 🌟 Projetos em Destaque
 
-**[CRUD SIMPLES](https://github.com/vtutya/Crud-Simples)**  
+
 
 
 ---
